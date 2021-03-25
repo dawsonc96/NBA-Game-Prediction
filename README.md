@@ -5,7 +5,7 @@ Predicting the outcome of any given NBA game
 ## Overview
 As the sport of basketball has becoming increasingly popular, data has come to the forefront for analyzing player and team performance. NBA owners will do anything to garner an advantage over their opponents,  and players look to managers and coaches to help them improve through insight on relevant data. 
 
-Bettors also look to statistics to better inform themselves of what the potential outcome of a game may be. Using NBA statistics from basektball-reference.com over the past 18 years, we created a model to predict whether the home team would win a given match based on their previous statistics. We use strictly Team data in eeach model.
+Bettors also look to statistics to better inform themselves of what the potential outcome of a game may be. Using NBA statistics from basektball-reference.com over the past 18 years, we created a model to predict whether the home team would win a given match based on their previous statistics. We use strictly Team data in each model.
 
 ## Business Problem
 Mark Cuban, owner of the Dallas Mavericks, has been contemplating hiring and outside analytics consultant as his team has been on quite a long losing streak. Cuban doesn't know what is going wrong and is hoping someone with a strong analytics background can help him understand their teams issues. Several outside consultants are pitching to him and we are one of them! We decided to create a model to help predict why any given NBA team may win a game to help him understand why his team may be losing.
