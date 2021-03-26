@@ -16,7 +16,7 @@ Mark Cuban, owner of the Dallas Mavericks, has been contemplating hiring and out
 
 ## Data
 
-To understand the NBA as a whole, we decided to do some league research and exploratory analysis to better understand the data we are analyzing. Developing our domain knowledge was important in order to be able to succinctly analyze our data. Using basketball-reference.com as our datasource, we obtained game data for each team over the past 18 years (over 23,000 observations). Before featurn engineering, our data had over 70 columns (features) of information relating to a specific game played.
+To understand the NBA as a whole, we decided to do some league research and exploratory analysis to better understand the data we are analyzing. Developing our domain knowledge was important in order to be able to succinctly analyze our data. Using basketball-reference.com as our datasource, we obtained game data for each team over the past 18 years (over 23,000 observations). Before featurn engineering, our data had over 70 columns (features) of information relating to a specific game played. The graph below is many people call the "home team advantage", which shows you that a team at home is more likely to win than when they are away.
 
 <p align="center">
  <img width="950" height="350" src=images/home_team_advantage.png>
