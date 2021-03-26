@@ -19,7 +19,7 @@ Mark Cuban, owner of the Dallas Mavericks, has been contemplating hiring and out
 To understand the NBA as a whole, we decided to do some league research and exploratory analysis to better understand the data we are analyzing. Developing our domain knowledge was important in order to be able to succinctly analyze our data. Using basketball-reference.com as our datasource, we obtained game data for each team over the past 18 years (over 23,000 observations). Before featurn engineering, our data had over 70 columns (features) of information relating to a specific game played.
 
 <p align="center">
- <img width="700" height="500" src=images/home_team_advantage.png>
+ <img width="950" height="350" src=images/home_team_advantage.png>
  </p>
  
 ## Methods
@@ -50,6 +50,17 @@ Our KNN classifier was our worst model, posting an accuracy score of around 54% 
 <p align="center">
  <img width="700" height="500" src=images/adaboost_cm.png>
  </p>
+
+## Conclusion
+Machine learning was extremely useful in helping us predict the outcome of NBA games, going from a 50% baseline score to an accuracy score of 66.5%. Not only did it help us predict which teams win, but gave us a better understanding of why teams win. Understanding basic statistics as well as engineering our own features helped us to get to this result.
+
+## Next Steps
+#### Grid Search
+For each model, run a couple of more grid searches so that we can ensure we are using the best model and parameters for our given data set.
+#### Regression Model
+Implement a new model that predicts point differential (point spread) in a given game
+#### Incorporate Player Data
+Incorporating data from players of each given team to see if it will give us a better overall model and be more predicitive of NBA outcomes.
 
 ## Repository Structure
 
