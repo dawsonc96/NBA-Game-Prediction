@@ -1,8 +1,6 @@
 <p align="center">
- <img width="700" height="500" src=images/nba_logo.jpg>
+ <img width="900" height="500" src=images/nba_logo.jpg>
  </p>
-
-
 
 # NBA Game Prediction
 Predicting the outcome of any given NBA game
