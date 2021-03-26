@@ -1,3 +1,9 @@
+<p align="center">
+ <img width="700" height="500" src=images/nba_logo.jpg>
+ </p>
+
+
+
 # NBA Game Prediction
 Predicting the outcome of any given NBA game
 
@@ -40,7 +46,7 @@ Our KNN classifier was our worst model, posting an accuracy score of around 54% 
 #### Adaboost Confusion Matrix
 
 <p align="center">
- <img width="700" height="500" src=images/random_f_max_depth20.png>
+ <img width="700" height="500" src=images/adaboost_cm.png>
  </p>
 
 ## Repository Structure
