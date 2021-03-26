@@ -38,7 +38,7 @@ Our KNN classifier was our worst model, posting an accuracy score of around 54% 
 #### Logistic Regression Confusion Matrix
 
 <p align="center">
- <img width="700" height="500" src=images/random_f_max_depth20.png>
+ <img width="700" height="500" src=images/logistic_reg.png>
  </p>
 
 #### Adaboost Confusion Matrix
