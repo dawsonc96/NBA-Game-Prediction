@@ -30,7 +30,11 @@ This project uses data cleaning and feature engineering. Cleaning our data was i
 
 As all of our data was in game format, we feature engineered our data so that it would show how well a team has played over the past 10 games (rolling averages of points, assists, rebounds, field goal percentage, etc.) for both the home team and away team. This made the model more predicitive and would be more interpretable for any NBA team or any bettor looking going into a game.
 
-One important note is that we decided to resample our model as one outcome was roughly 60% of our data and the pther was 40%. By resampling, we evenly distributed each outcome, bringing our baseline to 50%
+One important note is that we decided to resample our model as one outcome was roughly 60% of our data and the pther was 40%. By resampling, we evenly distributed each outcome, bringing our baseline to 50%. We also created dummy variables for each team as some franchises were more likely to win than others as seen in the graph below.
+
+<p align="center">
+ <img width="950" height="350" src=images/winning_teams.png>
+ </p>
 
 ## Results
 
