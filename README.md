@@ -33,7 +33,7 @@ As all of our data was in game format, we feature engineered our data so that it
 One important note is that we decided to resample our model as one outcome was roughly 60% of our data and the pther was 40%. By resampling, we evenly distributed each outcome, bringing our baseline to 50%. We also created dummy variables for each team as some franchises were more likely to win than others as seen in the graph below.
 
 <p align="center">
- <img width="950" height="350" src=images/winning_teams.png>
+ <img width="800" height="550" src=images/winning_teams.png>
  </p>
 
 ## Results
@@ -74,9 +74,10 @@ Alll data was initially sourced from basketball-reference.com and kaggle. Datase
 ```
 ├── data
 ├── images
-├── Final_notebook.ipynb
-├── Pump_it_up_Data_Mining_the_Water_Crisis.pdf
-└── README.md
+├── README.md
+├── eda_data_cleaning.ipynb
+├── models.ipynb
+└── final_model.ipynb
 ```
 
 
