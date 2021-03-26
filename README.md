@@ -62,6 +62,9 @@ Implement a new model that predicts point differential (point spread) in a given
 #### Incorporate Player Data
 Incorporating data from players of each given team to see if it will give us a better overall model and be more predicitive of NBA outcomes.
 
+## Source
+Alll data was initially sourced from basketball-reference.com and kaggle. Datasets were merged in order to have team stats and team rankings (win percentage, records, etc.) in the same dataset.
+
 ## Repository Structure
 
 ```
