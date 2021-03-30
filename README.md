@@ -29,7 +29,7 @@ To understand the NBA as a whole, we decided to do some league research and expl
  <img width="950" height="350" src=images/home_team_advantage.png>
  </p>
  
- Also, you can find these datasets from kaggle [here!](https://www.kaggle.com/nathanlauga/nba-games) All data was originally sourced at basketball-reference.
+ Also, you can find these datasets from kaggle [here!](https://www.kaggle.com/nathanlauga/nba-games) All data was originally sourced from [basketball-reference.com](basketball-reference.com).
  
 ## Methods
 
