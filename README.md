@@ -83,6 +83,7 @@ Alll data was initially sourced from basketball-reference.com and kaggle. Datase
 ```
 ├── data
 ├── images
+├── NBA Prediction Outcomes.pdf
 ├── README.md
 ├── eda_data_cleaning.ipynb
 ├── final_model.ipynb
