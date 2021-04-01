@@ -87,6 +87,7 @@ Alll data was initially sourced from basketball-reference.com and kaggle. Datase
 ├── README.md
 ├── eda_data_cleaning.ipynb
 ├── final_model.ipynb
+├── final_notebook.ipynb
 └── models.ipynb
 ```
 
