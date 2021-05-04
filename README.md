@@ -1,9 +1,5 @@
 ![Image of NBA](https://clutchpoints.com/wp-content/uploads/2020/06/Greatest-NBA-Players-Best-NBA-Players-Ranking-NBA-Players-NBA-Goat.-Who-Is-The-Best-Player-Ever-1.jpg)
 
-<p align="center">
- <img width="900" height="500" src=images/nba_logo.jpg>
- </p>
-
 # NBA Game Prediction
 Predicting the outcome of any given NBA game
 
