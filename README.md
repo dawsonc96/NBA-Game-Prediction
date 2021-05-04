@@ -1,4 +1,4 @@
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fclutchpoints.com%2Fupdating-ranking-the-50-greatest-players-nba%2F&psig=AOvVaw1cvfComiOYZf4RUj0OzJo7&ust=1620227372027000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDavMansPACFQAAAAAdAAAAABAE)
+(https://clutchpoints.com/wp-content/uploads/2020/06/Greatest-NBA-Players-Best-NBA-Players-Ranking-NBA-Players-NBA-Goat.-Who-Is-The-Best-Player-Ever-1.jpg)
 
 <p align="center">
  <img width="900" height="500" src=images/nba_logo.jpg>
