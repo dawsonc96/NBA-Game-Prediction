@@ -1,4 +1,4 @@
-(https://clutchpoints.com/wp-content/uploads/2020/06/Greatest-NBA-Players-Best-NBA-Players-Ranking-NBA-Players-NBA-Goat.-Who-Is-The-Best-Player-Ever-1.jpg)
+![Image of NBA](https://clutchpoints.com/wp-content/uploads/2020/06/Greatest-NBA-Players-Best-NBA-Players-Ranking-NBA-Players-NBA-Goat.-Who-Is-The-Best-Player-Ever-1.jpg)
 
 <p align="center">
  <img width="900" height="500" src=images/nba_logo.jpg>
@@ -92,5 +92,3 @@ Alll data was initially sourced from basketball-reference.com and kaggle. Datase
 ├── final_notebook.ipynb
 └── models.ipynb
 ```
-
-
