@@ -2,7 +2,6 @@
 
 # NBA Game Prediction
 Predicting the outcome of any given NBA game
-k
 
 ## Overview
 As the sport of basketball has becoming increasingly popular, data has come to the forefront for analyzing player and team performance. 
